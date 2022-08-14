@@ -1,5 +1,5 @@
 ## 👋Oii!, beleza ? Eu sou o Caio Salvador 
-    📚Atualmente estou cursando o 2º Ano do Ensino Médio
+    📚Atualmente estou cursando o 3º Ano do Ensino Médio
     💻Começando no mundo da programação
  <div>
   <a href="https://github.com/Caio-Salvador">
